@@ -21,8 +21,8 @@ favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-43667383-1
-  url: yansu.org
+  id: 
+  url: 
 
 # disqus 设置
 disqus:
