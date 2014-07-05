@@ -1,0 +1,43 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: ranger
+  email: wangtao0501@gmail.com
+  link: http://javaranger.com
+  weibo: http://weibo.com/shangdiren
+  github: https://github.com/chinageek
+
+# 站点信息
+title: ranger的博客 
+description: ranger的博客
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/upload/gavatar/gavatar.png
+favicon: /public/upload/gavatar/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-43667383-1
+  url: yansu.org
+
+# disqus 设置
+disqus:
+  shortname: ranger
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Python
+  - OpenStack
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
